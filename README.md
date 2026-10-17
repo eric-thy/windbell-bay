@@ -2,6 +2,8 @@
 
 一座漂在云上的 3D 箱庭小镇。所有地形、建筑、灯光、贴图与音效均由代码实时生成，**单文件、完全离线、无需安装任何依赖**。
 
+> **在线访问 / Live demo**：<https://eric-thy.github.io/windbell-bay/>
+
 ![风铃湾·白昼](./preview-day.png)
 
 ## 打开方式
